@@ -1,2 +1,0 @@
-# 003_CSS_Temel_Seviye
-003_CSS_Temel_Seviye
